@@ -14,3 +14,13 @@
  - The images is generated from https://github.com/HashLips/generative-art-opensource project
 
 
+## HOW TO USE
+- Install dependencies:
+```
+npm install
+```
+- Run 
+``` 
+npm run start
+```
+
