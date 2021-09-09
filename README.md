@@ -24,3 +24,7 @@ npm install
 npm run start
 ```
 
+## REQUIRES
+- Truffle
+- Ganache
+- Metamask test account using Ganache network
